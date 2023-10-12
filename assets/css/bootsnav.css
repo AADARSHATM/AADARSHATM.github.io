@@ -45,7 +45,7 @@ nav.navbar.bootsnav{
     -webkit-border-radius: 0px;
     -o-border-radius: 0px;
     border-radius: 0px;
-    background-color: #fff;
+    background-color: #cafdff;
     border: none;
     border-bottom: solid 1px #e0e0e0;
     z-index: 9;
@@ -67,7 +67,7 @@ nav.navbar.bootsnav ul.nav li.active > a{
 }
 
 nav.navbar.bootsnav .navbar-toggle{
-    background-color: #fff;
+    background-color: #cafdff;
     border: none;
     padding: 0;
     font-size: 18px;
@@ -147,7 +147,7 @@ nav.bootsnav.navbar-full .navbar-collapse .nav-full{
 nav.bootsnav.navbar-full .navbar-collapse .wrap-full-menu{
     display: table-cell;
     vertical-align: middle;
-    background-color: #fff;
+    background-color: #cafdff;
     overflow: auto;
 }
 
@@ -332,7 +332,7 @@ ul.cart-list > li.total > span{
     -webkit-box-shadow: 0px 0px 0px;
     -o-box-shadow: 0px 0px 0px;
     box-shadow: 0px 0px 0px;
-    color: #fff;
+    color: #cafdff;
     height: 40px;
     padding: 0 15px;
 }
@@ -340,7 +340,7 @@ ul.cart-list > li.total > span{
 .top-search .input-group-addon{
     background-color: transparent;
     border: none;
-    color: #fff;
+    color: #cafdff;
     padding-left: 0;
     padding-right: 0;
 }
@@ -387,7 +387,7 @@ body.on-side{
 
 .side .close-side{
     float: right;
-    color: #fff;
+    color: #cafdff;
     position: relative;
     z-index: 2;
     font-size: 16px;
@@ -400,7 +400,7 @@ body.on-side{
 }
 
 .side .widget .title{
-    color: #fff;
+    color: #cafdff;
     margin-bottom: 15px;
 }
 
@@ -417,7 +417,7 @@ body.on-side{
 
 .side .widget ul.link li a:focus,
 .side .widget ul.link li a:hover{
-    color: #fff;
+    color: #cafdff;
     text-decoration: none;
 }
 
@@ -452,7 +452,7 @@ nav.navbar.bootsnav .share ul > li > a{
     -o-border-radius: 50%;
     border-radius: 50%;
     background-color: #cfcfcf;
-    color: #fff;
+    color: #cafdff;
 }
 
 /* Transparent
@@ -546,7 +546,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         border-radius: 0px;
         padding: 0;
         width: 200px;
-        background: #fff;
+        background: #cafdff;
         border: solid 1px #e0e0e0;
         border-top: solid 5px;
     }
@@ -674,7 +674,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     nav.navbar.bootsnav.navbar-transparent.white .attr-nav > ul > li > a,
     nav.navbar.bootsnav.navbar-transparent.white ul.nav > li > a,
     nav.navbar.bootsnav.no-background.white ul.nav > li > a{
-        color: #fff;
+        color: #cafdff;
     }
     
     nav.navbar.bootsnav.navbar-transparent.dark .attr-nav > ul > li > a,
@@ -843,7 +843,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         overflow: hidden;
         left: 0;
         padding: 0  0 0 0 !important;
-        background: #fff;
+        background: #cafdff;
         border-right: solid 1px #dfdfdf;
     }  
     
@@ -1308,7 +1308,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         overflow-y: auto !important;
         overflow-x: hidden !important;
         display: block;
-        background: #fff;
+        background: #cafdff;
         z-index: 99;
         width: 280px;
         height: 100% !important;
@@ -1456,7 +1456,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     }
     
     nav.navbar.bootsnav.navbar-mobile ul.nav{
-        border-top: solid 1px #fff;
+        border-top: solid 1px #cafdff;
     }
     
     li.close-full-menu{
